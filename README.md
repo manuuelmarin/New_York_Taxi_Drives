@@ -6,3 +6,6 @@ You can find more information of the dataset in the following link: https://www1
 This repository hosts the Big Data analysis project commissioned for the NYC Taxi Trip Record dataset, executed using Apache Spark. The environment was containerized using Docker (with quay.io/jupyter/pyspark-notebook), ensuring a scalable and reproducible setup for handling large volumes of data.
 
 The analysis includes three mandatory studies, covering taxi speed by hour, common trip routes based on location IDs, and a financial study focused on tipping behavior by passenger count. A core requirement of this project was demonstrating proficiency across the full Spark API, with one study leveraging RDDs, DataFrames, and direct SQL commands. Furthermore, the repository includes a comprehensive scalability and performance report analyzing the execution speed-up against increasing core counts, justifying the code's efficiency and parallelization capability.
+
+
+The dataset is not uploaded because the file size it is larger than 25Mb
